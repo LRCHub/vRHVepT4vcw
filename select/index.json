@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Legend",
+  "base_artist": "OZROSAURUS",
+  "createdAt": "2025-12-12T16:30:26.328118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(I'd Be) A Legend in My Time",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/01_(I'd_Be)_A_Legend_in_My_Time_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Legend of Bonnie and Clyde",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": false,
+      "path": "select/02_The_Legend_of_Bonnie_and_Clyde_Merle_Haggard_&_The_Strangers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Legend of Wooley Swamp",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/03_The_Legend_of_Wooley_Swamp_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Legend Of Wooley Swamp (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/04_The_Legend_Of_Wooley_Swamp_(Album_Version)_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Legend",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_Legend_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Legend",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/06_Legend_Drake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In My Life (feat. John Legend)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/07_In_My_Life_(feat._John_Legend)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Future Legend (2016 Remastered Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Future_Legend_(2016_Remastered_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Fire (Feat. John Legend)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/09_The_Fire_(Feat._John_Legend)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Special (Feat. John Legend)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/10_So_Special_(Feat._John_Legend)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Becomes a Legend Most",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/11_What_Becomes_a_Legend_Most_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Getting Nowhere (Feat. John Legend)",
+      "artist": "Magnetic Man",
+      "has_synced": true,
+      "path": "select/12_Getting_Nowhere_(Feat._John_Legend)_Magnetic_Man.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Maybach Curtains (feat. Nas, John Legend & Rick Ross)",
+      "artist": "Meek Mill feat. John Legend, Nas & Rick Ross",
+      "has_synced": true,
+      "path": "select/13_Maybach_Curtains_(feat._Nas,_John_Legend_&_Rick_Ross)_Meek_Mill_feat._John_Legend,_Nas_&_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Maybach Curtains (Feat. Nas, John Legend, Rick Ross)",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/14_Maybach_Curtains_(Feat._Nas,_John_Legend,_Rick_Ross)_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Legend Reborn",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/15_A_Legend_Reborn_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GOD DID (feat. Rick Ross, Lil Wayne, JAY-Z, John Legend & Fridayy)",
+      "artist": "DJ Khaled feat. Rick Ross, Lil Wayne, John Legend, JAY-Z & Fridayy",
+      "has_synced": true,
+      "path": "select/16_GOD_DID_(feat._Rick_Ross,_Lil_Wayne,_JAY-Z,_John_Legend_&_Fridayy)_DJ_Khaled_feat._Rick_Ross,_Lil_Wayne,_John_Legend,_JAY-Z_&_Fridayy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GOD DID (feat. Rick Ross, Lil Wayne, JAY-Z, John Legend, & Fridayy)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/17_GOD_DID_(feat._Rick_Ross,_Lil_Wayne,_JAY-Z,_John_Legend,_&_Fridayy)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Legend",
+      "artist": "OZROSAURUS",
+      "has_synced": false,
+      "path": "select/pl_01_Legend_OZROSAURUS.txt"
+    }
+  ]
+}
